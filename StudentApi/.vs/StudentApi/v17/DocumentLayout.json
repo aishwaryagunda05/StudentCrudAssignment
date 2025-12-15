@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\archa\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|c:\\chubb\\assignmentintegration\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{427C6822-8D3E-407E-8209-D9A318E81F37}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Data\\StudentDbContext.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentApi\\Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:14:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\LoginDto.cs",
+              "RelativeToolTip": "StudentApi\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:12:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "StudentApi\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:11:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "StudentApi\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:06:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:05:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:35:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApi\\appsettings.json",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\appsettings.json",
+              "RelativeToolTip": "StudentApi\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T16:52:49.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Program.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Program.cs",
+              "RelativeToolTip": "StudentApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:16:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:21:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\archa\\source\\repos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\archa\\source\\repos\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\archa\\source\\repos\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\..\\Users\\archa\\source\\repos\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-14T17:36:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentApi.csproj",
+              "DocumentMoniker": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "RelativeDocumentMoniker": "StudentApi\\StudentApi.csproj",
+              "ToolTip": "C:\\Chubb\\AssignmentIntegration\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "RelativeToolTip": "StudentApi\\StudentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T16:52:30.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
